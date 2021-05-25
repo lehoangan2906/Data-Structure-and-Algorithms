@@ -1,2 +1,2 @@
 # Algorithms
-Algorithm
+Algorithms I've learned
